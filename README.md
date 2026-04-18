@@ -8,7 +8,7 @@ Hi everyone, I'm Jason 👋
 
 ---
 
-# 💻 Tech Stack
+# 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql)
