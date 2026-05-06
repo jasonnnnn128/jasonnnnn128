@@ -21,6 +21,3 @@ Hi everyone, I'm Jason 👋
 
 ---
 
-# 📊 GitHub Stats
-
-
