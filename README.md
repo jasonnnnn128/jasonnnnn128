@@ -21,9 +21,23 @@ Hi everyone, I'm Jason 👋
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 
-Contact me
-Linkedin : https://www.linkedin.com/in/jason-oueng-8b60283b5/
-email : jsno97350@gmail.com
-instagram : Jasson_1.4
+```md
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="jsno97350@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://instagram.com/jasson_1.4">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/jason-oueng-8b60283b5/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+```
+
 ---
 
