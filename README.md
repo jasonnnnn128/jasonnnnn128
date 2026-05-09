@@ -24,7 +24,7 @@ Hi everyone, I'm Jason 👋
 ```md
 ## 📫 Contact Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jsno97350@gmail.com)
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:jsno97350@gmail.com)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jasson_1.4)
 
