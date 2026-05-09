@@ -22,22 +22,15 @@ Hi everyone, I'm Jason 👋
 ![NumPy](https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 
 ```md
-## 🌐 Connect With Me
+## 📫 Contact Me
 
-<p align="left">
-  <a href="jsno97350@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jsno97350@gmail.com)
 
-  <a href="https://instagram.com/jasson_1.4">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jasson_1.4)
 
-  <a href="https://www.linkedin.com/in/jason-oueng-8b60283b5/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-oueng-8b60283b5/)
 ```
+
 
 ---
 
