@@ -21,6 +21,9 @@ Hi everyone, I'm Jason 👋
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 
-
+Contact me
+Linkedin : https://www.linkedin.com/in/jason-oueng-8b60283b5/
+email : jsno97350@gmail.com
+instagram : Jasson_1.4
 ---
 
