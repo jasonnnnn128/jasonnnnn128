@@ -1,4 +1,4 @@
-```md id="f4q8mz"
+```md id="bq2m7r"
 # 🚀 About Me
 
 Hi everyone, I'm Jason 👋
@@ -21,7 +21,7 @@ Hi everyone, I'm Jason 👋
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
@@ -35,5 +35,6 @@ Hi everyone, I'm Jason 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jason-oueng-8b60283b5/)
 
 ---
+
 ✨ Thanks for visiting my profile ✨
 ```
